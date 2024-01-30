@@ -1,5 +1,5 @@
 import React from "react";
-import HeroPng from "../../assets/coffee2.png";
+import Heroo from "../../assets/coffee2.png";
 
 const Hero = () => {
   return (
@@ -38,7 +38,7 @@ const Hero = () => {
             >
               <img
                 data-aos-once="true"
-                src={HeroPng}
+                src={Heroo}
                 alt="biryani img"
                 className="w-[300px] sm:w-[450px] sm:scale-125 mx-auto spin "
               />
